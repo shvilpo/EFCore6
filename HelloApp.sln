@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp", "HelloApp\HelloApp.csproj", "{FAAEB7C7-41EF-48E0-BF93-B379B057D370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirstApp", "DBFirstApp\DBFirstApp.csproj", "{D5265A3E-2586-4DB7-ADF7-2F4F3303C020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAEB7C7-41EF-48E0-BF93-B379B057D370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAEB7C7-41EF-48E0-BF93-B379B057D370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAEB7C7-41EF-48E0-BF93-B379B057D370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAEB7C7-41EF-48E0-BF93-B379B057D370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5265A3E-2586-4DB7-ADF7-2F4F3303C020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5265A3E-2586-4DB7-ADF7-2F4F3303C020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5265A3E-2586-4DB7-ADF7-2F4F3303C020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5265A3E-2586-4DB7-ADF7-2F4F3303C020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8988F247-9BC1-40C7-8479-A48A8875EFCC}
+	EndGlobalSection
+EndGlobal
